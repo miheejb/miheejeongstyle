@@ -17,7 +17,7 @@ const About = () => {
         <div className="a-title">
           <h1>About me</h1>
           <p className="a-sub">
-            It is a long estalbished fact that a reader will be readable content.
+           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis, deserunt?
           </p>
           <p className='a-desk'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores exercitationem dignissimos, obcaecati quam voluptatibus quasi possimus repellat consequatur delectus deserunt aspernatur adipisci. Delectus illum magnam culpa tempore quos consectetur a deserunt animi sint quidem saepe, beatae non. Harum, tempore dignissimos.</p>
           <div className="a-award">
