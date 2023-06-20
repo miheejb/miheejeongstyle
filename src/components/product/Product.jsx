@@ -1,7 +1,7 @@
 import React from 'react'
 import "./product.css"
 
-const Product = () => {
+const Product = ({img,link}) => {
   return (
     <div className="p">
       <div className="p-browser">
@@ -10,7 +10,7 @@ const Product = () => {
         <div className="p-circle"></div>
 
       </div>
-      <a href="miheejeong.com" target= "_blank" > <img src="" alt="" /></a>
+      <a href={link} target= "_blank" rel="noreferrer"> <img src={img} alt="" /></a>
     </div>
   );
 }
