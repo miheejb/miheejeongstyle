@@ -7,7 +7,7 @@ import { useState } from "react";
 
 
 const  App = () =>  {
-  const [dark, setDark] = useState(false)
+  
   return (
     <div>
       <Toggle/>
